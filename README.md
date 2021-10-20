@@ -1,5 +1,10 @@
 # worki
 
+Adjunto GIF demostrando el trabajo
+
+![Screenrecorder-2021-10-20-11-03-30-961](https://user-images.githubusercontent.com/36460315/138131994-68a1908c-f318-4df1-8984-72b428d8fa2d.gif)
+
+
 A new Flutter project.
 
 ## Getting Started
